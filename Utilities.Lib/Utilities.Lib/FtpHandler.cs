@@ -32,7 +32,7 @@ namespace Utilities.Lib
                     ftpstream.Write(buffer, 0, buffer.Length);
                 }
             }
-            catch (Exception)
+            catch
             {
                 throw;
             }

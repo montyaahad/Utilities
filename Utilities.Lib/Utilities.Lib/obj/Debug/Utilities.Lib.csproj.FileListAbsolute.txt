@@ -1,0 +1,5 @@
+E:\own\Utilities\Utilities.Lib\Utilities.Lib\bin\Debug\Utilities.Lib.dll
+E:\own\Utilities\Utilities.Lib\Utilities.Lib\bin\Debug\Utilities.Lib.pdb
+E:\own\Utilities\Utilities.Lib\Utilities.Lib\obj\Debug\Utilities.Lib.csprojResolveAssemblyReference.cache
+E:\own\Utilities\Utilities.Lib\Utilities.Lib\obj\Debug\Utilities.Lib.dll
+E:\own\Utilities\Utilities.Lib\Utilities.Lib\obj\Debug\Utilities.Lib.pdb
